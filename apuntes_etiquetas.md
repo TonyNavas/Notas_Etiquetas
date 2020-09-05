@@ -1,5 +1,7 @@
 # **Etiquetas en HTML**
 
+![Imagen](img\Etiquetas-html.jpg)
+
 Las etiquetas en HTML normalmente vienen en pares como ```<p>y</p>```, la primera etiqueta en un par es la etiqueta de inicio, la segunda etiqueta es la etiqueta final
 
 La etiqueta final se escribe como la etiqueta inicial, pero con una barra diagonal insertada antes del nombre de la etiqueta ```<p> Mi primer párrafo </p>```
@@ -45,8 +47,10 @@ Los encabezados se definen con las etiquetas ```<h1>``` a ```<h6>```. ```<h1>```
 <h4>Título 4</h4>
 <h5>Título 5</h5>
 <h6>Título 6</h6>
-
 ```
+
+__Asi se veran cada uno de los niveles de los encabezados:__
+![imagen](img\Encabezados.png)
 ## **Etiquetas para citas HTML**
 
 La etiqueta que define las citas cortas es <q>, por lo general, los navegadores les insertan comillas.
@@ -73,4 +77,95 @@ Las etiquetas de comentarios se utilizan para insertar comentarios en el código
 </html>
 ```
 ## **Párrafos**
+
+El elemento <p> define un párrafo en HTML. 
+Los resultados pueden ser diferentes en varios tamaños de pantalla, su redimensión crearan resultados diferentes.
+El navegador elimina los espacios y saltos de línea
+
+```
+<p>
+Este párrafo contiene un 
+conjunto de líneas en el 
+código fuente, pero el 
+navegador lo ignorará.
+</p>
+```
+![Imagen](img\descarga.png)
+
+Entre los parrafos podemos hacer saltos de linea con la etiqueta ```<br>```
+
+**Ejemplo**
+```
+<p>
+Este párrafo contiene un<br> 
+conjunto de líneas en el<br> 
+código fuente, pero el <br> 
+navegador lo ignorará. <br>
+</p>
+```
+## **Enlaces**
+
+Los enlaces nos permiten hacer clic para llevarnos a informacion que se encuentra en otra pagina web.
+
+```Sintaxis:  <a href="url">Texto del vínculo</a>```
+
+**Ejemplo**
+```
+<!DOCTYPE html>
+<html>
+<body>
+<!-- Vínculos-->
+<a href=“https://www.Google.com”>Ir a google</a>
+</body>
+</html>
+```
+
+## **Tablas**
+
+Las tablas nos permiten organizar nuestros datos en filas y columnas. Para definir una tabla utilizamos la etiqueta ```<Table <tr> <td> </tr> </td> </table>``` 
+
+**Ejemplo**
+```
+<!-- tabla-->
+<table>
+<tr>
+<th>Nombre</th>
+<th colspan=“2”>Telefono</th>
+</tr>
+<tr>
+<td>Geronimo Navas</td>
+<td>89364636</td>
+<td>89364636</td>
+</tr>
+</table>
+```
+
+## **Listas**
+
+Podemos definir listas desordenadas y ordenadas. Para las listas desordenadas usamos ```<ul>```, Para las listas ordenadas usamos ```<ol>```, Para los ítems de las listas usamos ```<li>```.
+
+```Sintaxis:  <ul> <li> </li> </ul>```
+
+**Ejemplo de listas desordenadas**
+
+```
+<!– listas desordenadas -->
+<ul>
+<li>Cafe</li>
+<li>Gaseosas</li>
+<li>Agua</li>
+</ul>
+
+```
+**Ejemplo de listas ordenadas**
+
+```
+<!– listas ordenadas -->
+<ol>
+<li>Verduras</li>
+<li>Granos</li>
+<li>Jugo</li>
+</ol>
+
+```
 
