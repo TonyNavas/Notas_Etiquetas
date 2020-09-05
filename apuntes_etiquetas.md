@@ -37,6 +37,7 @@ La etiqueta final se escribe como la etiqueta inicial, pero con una barra diagon
 
 ## **Encabezados**
 
+
 Los encabezados se definen con las etiquetas ```<h1>``` a ```<h6>```. ```<h1>``` define el encabezado más importante. ```<h6>```define el encabezado menos importante.
 
 **Ejemplo**
@@ -62,6 +63,8 @@ La etiqueta que define las citas cortas es <q>, por lo general, los navegadores 
 ```
 
 ## **Comentarios**
+
+![imagen](img\comentarios-html.jpg)
 
 Las etiquetas de comentarios se utilizan para insertar comentarios en el código fuente HTML. El navegador no muestra comentarios, pero pueden ayudarlo a documentar su código fuente HTML.
 
@@ -104,7 +107,7 @@ navegador lo ignorará. <br>
 </p>
 ```
 ## **Enlaces**
-
+![imagen](img\enlace-1.png)
 Los enlaces nos permiten hacer clic para llevarnos a informacion que se encuentra en otra pagina web.
 
 ```Sintaxis:  <a href="url">Texto del vínculo</a>```
@@ -139,9 +142,9 @@ Las tablas nos permiten organizar nuestros datos en filas y columnas. Para defin
 </tr>
 </table>
 ```
-
+![imagen](img\tablas.gif)
 ## **Listas**
-
+![imagen](img\listas.jpg)
 Podemos definir listas desordenadas y ordenadas. Para las listas desordenadas usamos ```<ul>```, Para las listas ordenadas usamos ```<ol>```, Para los ítems de las listas usamos ```<li>```.
 
 ```Sintaxis:  <ul> <li> </li> </ul>```
@@ -168,4 +171,6 @@ Podemos definir listas desordenadas y ordenadas. Para las listas desordenadas us
 </ol>
 
 ```
+
+
 
