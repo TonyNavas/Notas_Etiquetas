@@ -142,7 +142,7 @@ Las tablas nos permiten organizar nuestros datos en filas y columnas. Para defin
 </tr>
 </table>
 ```
-![imagen](img\tablas.gif)
+![imagen](.\img\tablas.gif)
 ## **Listas**
 ![imagen](img\listas.jpg)
 Podemos definir listas desordenadas y ordenadas. Para las listas desordenadas usamos ```<ul>```, Para las listas ordenadas usamos ```<ol>```, Para los ítems de las listas usamos ```<li>```.
