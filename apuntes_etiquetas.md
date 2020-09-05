@@ -50,7 +50,8 @@ Los encabezados se definen con las etiquetas ```<h1>``` a ```<h6>```. ```<h1>```
 <h6>Título 6</h6>
 ```
 
-__Asi se veran cada uno de los niveles de los encabezados:__
+**Asi se veran cada uno de los niveles de los encabezados:**
+
 ![imagen](https://i1.wp.com/tutobasico.com/wp-content/uploads/2018/10/encabezados-html.jpg?ssl=1)
 ## **Etiquetas para citas HTML**
 
