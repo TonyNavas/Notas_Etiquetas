@@ -1,6 +1,6 @@
 # **Etiquetas en HTML**
 
-![Imagen](img\Etiquetas-html.jpg)
+![Imagen](https://websgalicia.es/blog/wp-content/uploads/etiquetas-html.jpg)
 
 Las etiquetas en HTML normalmente vienen en pares como ```<p>y</p>```, la primera etiqueta en un par es la etiqueta de inicio, la segunda etiqueta es la etiqueta final
 
@@ -51,7 +51,7 @@ Los encabezados se definen con las etiquetas ```<h1>``` a ```<h6>```. ```<h1>```
 ```
 
 __Asi se veran cada uno de los niveles de los encabezados:__
-![imagen](img\Encabezados.png)
+![imagen](https://i1.wp.com/tutobasico.com/wp-content/uploads/2018/10/encabezados-html.jpg?ssl=1)
 ## **Etiquetas para citas HTML**
 
 La etiqueta que define las citas cortas es <q>, por lo general, los navegadores les insertan comillas.
@@ -64,7 +64,7 @@ La etiqueta que define las citas cortas es <q>, por lo general, los navegadores 
 
 ## **Comentarios**
 
-![imagen](img\comentarios-html.jpg)
+![imagen](https://disenowebakus.net/imagenes/articulos/comentarios-html.jpg)
 
 Las etiquetas de comentarios se utilizan para insertar comentarios en el código fuente HTML. El navegador no muestra comentarios, pero pueden ayudarlo a documentar su código fuente HTML.
 
@@ -93,7 +93,7 @@ código fuente, pero el
 navegador lo ignorará.
 </p>
 ```
-![Imagen](img\descarga.png)
+![Imagen](https://mdn.mozillademos.org/files/11913/htmlexp.png)
 
 Entre los parrafos podemos hacer saltos de linea con la etiqueta ```<br>```
 
@@ -107,7 +107,7 @@ navegador lo ignorará. <br>
 </p>
 ```
 ## **Enlaces**
-![imagen](img\enlace-1.png)
+![imagen](https://misapuntesyacimientos.files.wordpress.com/2016/02/enlace-1.png?w=840)
 Los enlaces nos permiten hacer clic para llevarnos a informacion que se encuentra en otra pagina web.
 
 ```Sintaxis:  <a href="url">Texto del vínculo</a>```
@@ -142,9 +142,9 @@ Las tablas nos permiten organizar nuestros datos en filas y columnas. Para defin
 </tr>
 </table>
 ```
-![imagen](.\img\tablas.gif)
+![imagen](https://sites.google.com/site/informaticaiibunla/_/rsrc/1307489220791/change-the-banner/tablas-en-html/guida_tabelle_2.gif?height=196&width=320)
 ## **Listas**
-![imagen](img\listas.jpg)
+![imagen](https://disenowebakus.net/imagenes/articulos/listas-html-ul-ol-dl.jpg)
 Podemos definir listas desordenadas y ordenadas. Para las listas desordenadas usamos ```<ul>```, Para las listas ordenadas usamos ```<ol>```, Para los ítems de las listas usamos ```<li>```.
 
 ```Sintaxis:  <ul> <li> </li> </ul>```
